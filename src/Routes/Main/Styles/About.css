@@ -1,0 +1,17 @@
+@import "../../../vars.css";
+
+body {
+  z-index: 0;
+}
+
+.about {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 33px;
+  font-family: var(--font-roboto);
+  color: black;
+}
+
+.mtp {
+  margin-top: -5%; /* O cualquier otro valor negativo según tus necesidades */
+}
